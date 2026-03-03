@@ -6,15 +6,13 @@ header{
   font-family: "Archivo Black", sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 220px;
+  font-size: 200px;
   letter-spacing: -5px;
   font-weight: bold;
   text-shadow:
                 0 0 5px rgb(255, 255, 255),
                 0 0 10px rgb(255, 255, 255),
-                0 0 20px rgb(255, 255, 255),
-                0 0 40px rgb(255, 255, 255),
-                0 0 80px rgb(255, 255, 255);
+                0 0 20px rgb(255, 255, 255);
   display: flex;
   justify-content: center;
   height: 80px;
@@ -47,6 +45,7 @@ font-size:20px;
 }
 
 .button{
+  color: black;
   background-color: white;
   margin: 40px;
   font-family: "Archivo Black", sans-serif;
@@ -108,4 +107,5 @@ font-size:20px;
 .fade{
   position: relative;
 }
+
 
